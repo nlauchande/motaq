@@ -1,5 +1,7 @@
 # motaq - My Own Task Queue for Python
 
+motaq is a fork by from JoseTomasTocino/yotaq - to explore the simple idea of a powerful and simple task queue
+
 So you need a task queue for your Python project. Sure you could check [celery](http://www.celeryproject.org/), and after three months trying to understand the basic configuration options you'll be good to go. Or you could use a simpler task queue like [huey](https://github.com/coleifer/huey) or [rq](http://python-rq.org/).
 
 Why don't you try building **your own** task queue? Well, now you can!
